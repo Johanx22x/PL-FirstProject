@@ -108,7 +108,21 @@ principal para la comunicación entre el servidor y el cliente, ya que el
 protocolo HLS ofrece un sistema de transmisión más realista y funcional
 con respecto al desarrollo de un sistema de streaming de música.
 
+\subsubsection{Dockerización}
+
+Debido a problemas de compatibilidad entre las librerías utilizadas para el
+proyecto y el sistema operativo Windows, se decidió utilizar Docker para
+ejecutar el servidor. De esta manera, se logró ejecutar el servidor en un
+contenedor de Docker, el cual se encarga de ejecutar el servidor en un sistema
+operativo Linux. De esta manera, se logró ejecutar el servidor sin problemas
+en Windows. La definición de como utilizar Docker para ejecutar el servidor
+se encuentra tanto en el repositorio del servidor \cite{server} como en el
+como en el repositorio del proyecto \cite{project}.
+
 \subsection{Cliente}
+
+Antes de comenzar a describir las características del cliente, es importante
+destacar que el código del cliente se encuentra en \cite{client}.
 
 Tomando como base los requerimientos establecidos para el cliente, se
 implementó un programa que cumple con las siguientes características:
