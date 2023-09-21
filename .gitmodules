@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Johanx22x/SharpBeat
+[submodule "Server"]
+	path = Server
+	url = https://github.com/zSnails/plyr
