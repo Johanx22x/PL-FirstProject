@@ -9,8 +9,8 @@ Avalonia framework for the GUI and VLC for multimedia playback.
 
 Authors:
 
-- [Johan Rodríguez](github.com/Johanx22x)
-- [Aarón González](github.com/zSnails)
+- [Johan Rodríguez](https://github.com/Johanx22x)
+- [Aarón González](https://github.com/zSnails)
 
 ## Usage
 
@@ -29,7 +29,7 @@ make
 ### Server
 
 The server is called `plyr` and it is located in the `server` folder, as well 
-as in [zSnails/plyr](github.com/zSnails/plyr). The server can be compiled by
+as in [zSnails/plyr](https://github.com/zSnails/plyr). The server can be compiled by
 running the following command in the `server` folder:
 
 ```bash
@@ -113,7 +113,7 @@ localhost:<port>/<hash>/outputlist.m3u8
 ### Client 
 
 The client is called `SharpBeat` and it is located in the `SharpBeat` folder, as
-well as in [Johanx22x/SharpBeat](github.com/Johanx22x/SharpBeat). The client
+well as in [Johanx22x/SharpBeat](https://github.com/Johanx22x/SharpBeat). The client
 uses the [Avalonia framework](https://github.com/fsprojects/Avalonia.FuncUI) 
 for the GUI and [LibVLC](https://www.videolan.org/vlc/libvlc.html) in Windows and 
 [LibVLCSharp](https://github.com/videolan/libvlcsharp) in Linux for multimedia
