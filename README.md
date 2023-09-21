@@ -10,7 +10,7 @@ Avalonia framework for the GUI and VLC for multimedia playback.
 Authors:
 
 - [Johan Rodríguez](https://github.com/Johanx22x)
-- [Aarón González](https://github.com/zSnails)
+- [Aaron González](https://github.com/zSnails)
 
 ## Usage
 
